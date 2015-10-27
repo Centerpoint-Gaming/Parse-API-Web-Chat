@@ -13,3 +13,4 @@ This program is more of a 'chat-room' where messages are sent and than anyone cu
 1. User sends message to chatroom (parse saves the message)
 2. Users connected are constantly checking if parse has recieved any messages within the past ~500ms
 3. Append the messages (if any) to the text area that is supposed to be messages.
+4.  
