@@ -1,7 +1,7 @@
 // Global variables
 var currentUser;
 var Messages = Parse.Object.extend("Messages");
-var now;
+ var now;
 
 function attemptLogin() {
 	now = new Date();
